@@ -1,7 +1,7 @@
 # Information Security Tool - Công cụ An toàn Thông tin
 
 ## 📋 Mô tả
-Tool bảo mật thông tin toàn diện được viết bằng Python với giao diện CLI, cung cấp các tính năng:
+Tool bảo mật thông tin toàn diện được viết bằng Python && JavaScript với giao diện CLI, cung cấp các tính năng:
 
 - 🖥️ **Thông tin hệ thống**: Hiển thị OS, IP, MAC, hostname và quét port local
 - 🌐 **Kiểm tra bảo mật website**: Phân tích HTTP headers, SSL/TLS, redirects
